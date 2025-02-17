@@ -33,9 +33,8 @@ pip install -r requirements.txt
 ```
 LEGALEASE/
 │── notebooks/
-│   ├── summarization.ipynb   # Summarization Model Notebook
-│   ├── translation.ipynb     # Translation Model Notebook
-│   ├── text_to_speech.ipynb  # TTS Model Notebook
+│   ├── summarizer+Question_answering.ipynb   # Summarization + Question Answering Model Notebook
+│   ├── Translation+Text_to_speech.ipynb  # Translation + TTS Model Notebook
 │
 │── requirements.txt          # Dependencies
 │── README.md                 # Project Documentation
