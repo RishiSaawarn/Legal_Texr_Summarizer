@@ -42,12 +42,6 @@ LEGALEASE/
 │── .gitignore                # Git Ignore File
 ```
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m 'Add new feature'`)
-4. Push to your branch (`git push origin feature-name`)
-5. Open a **Pull Request**
 
 ## 📜 License
 This project is **open-source** under the **MIT License**.
